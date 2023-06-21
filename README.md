@@ -1,2 +1,2 @@
 # Devops-git
-This is my chanage through the github web interface
+This is my change through the github web interface
