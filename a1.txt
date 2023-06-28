@@ -1,1 +1,5 @@
 It's a new branch name developer and i am a sample file
+this line is added from remotrepo only
+This line is added from gitbash only
+This is another line from remote reop 
+This second line added from git only
